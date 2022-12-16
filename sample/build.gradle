@@ -1,3 +1,5 @@
+//Jeff Taylor: edited comment
+
 apply plugin: 'com.android.application'
 
 android {
